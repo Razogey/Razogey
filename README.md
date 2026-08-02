@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=550&height=44&lines=Computer+Science+Student;Python+Developer;Backend+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 Computer Science student passionate about building software and learning new technologies.
 
-- 🎓 Computer Science Student
-- 💻 Python Developer
-- 📚 Interested in Backend Development
-- ⚡ Love building practical projects
+-  Computer Science Student
+-  Python Developer
+-  Interested in Backend Development
+-  Love building practical projects
 
-## 🛠️ Technologies
+##  Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,15 +32,15 @@ Computer Science student passionate about building software and learning new tec
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 🚀 Build more real-world projects
-- 🔧 Improve backend development skills
-- ☁️ Learn cloud deployment
-- 🤝 Contribute to open source
+-  Build more real-world projects
+-  Improve backend development skills
+-  Learn cloud deployment
+-  Contribute to open source
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile! 
 </p>
